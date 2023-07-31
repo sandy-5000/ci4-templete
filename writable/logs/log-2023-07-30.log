@@ -1,0 +1,376 @@
+CRITICAL - 2023-07-30 05:40:32 --> Class "App\Components\MongoConnection" not found
+in APPPATH/Controllers/HomeController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 05:42:23 --> Class "App\DataBase\MongoConnection" not found
+in APPPATH/Controllers/HomeController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 05:42:49 --> Class "App\Controllers\MongoConnection" not found
+in APPPATH/Controllers/HomeController.php on line 53.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 05:42:52 --> Class "App\Controllers\MongoConnection" not found
+in APPPATH/Controllers/HomeController.php on line 53.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 05:43:17 --> Class "App\Controllers\MongoConnection" not found
+in APPPATH/Controllers/HomeController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 05:43:38 --> Class "App\Controllers\MongoConnection" not found
+in APPPATH/Controllers/HomeController.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 05:46:33 --> Class "App\Libraries\MongoConnection" not found
+in APPPATH/Controllers/HomeController.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 05:46:51 --> Call to undefined method App\Libraries\MongoConnection::database()
+in APPPATH/Controllers/HomeController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 05:47:15 --> Call to undefined method App\Libraries\MongoConnection::database()
+in APPPATH/Controllers/HomeController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 05:48:00 --> Class "App\Components\MongoConnection" not found
+in APPPATH/Controllers/HomeController.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:09:40 --> Call to undefined method App\Libraries\MongoConnection::getDatebase()
+in APPPATH/Components/MongoDocument.php on line 12.
+ 1 APPPATH/Models/Users.php(10): App\Components\MongoDocument->__construct()
+ 2 APPPATH/Controllers/HomeController.php(30): App\Models\Users->__construct()
+ 3 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 4 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:10:00 --> Call to protected method App\Components\MongoDocument::find() from scope App\Controllers\HomeController
+in APPPATH/Controllers/HomeController.php on line 31.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:16:21 --> Non-static method App\Components\MongoDocument::find() cannot be called statically
+in APPPATH/Controllers/HomeController.php on line 27.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:16:43 --> Using $this when not in object context
+in APPPATH/Components/MongoDocument.php on line 20.
+ 1 APPPATH/Controllers/HomeController.php(27): App\Components\MongoDocument::find()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:18:50 --> Call to undefined method App\Models\Users::model()
+in APPPATH/Controllers/HomeController.php on line 27.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:25:41 --> Cannot instantiate abstract class App\Components\MongoDocument
+in APPPATH/Components/MongoDocument.php on line 35.
+ 1 APPPATH/Controllers/HomeController.php(27): App\Components\MongoDocument::model()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:30:51 --> Call to undefined method MongoDB\Model\BSONDocument::toArray()
+in APPPATH/Components/MongoDocument.php on line 31.
+ 1 APPPATH/Controllers/HomeController.php(27): App\Components\MongoDocument->findOne()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:31:00 --> Undefined variable $data
+in APPPATH/Components/MongoDocument.php on line 31.
+ 1 APPPATH/Components/MongoDocument.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(27): App\Components\MongoDocument->findOne()
+ 3 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 4 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:36:51 --> Using $this when not in object context
+in APPPATH/Models/Users.php on line 12.
+ 1 APPPATH/Controllers/HomeController.php(27): App\Models\Users::model()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:37:33 --> Class "App\Models\this" not found
+in APPPATH/Models/Users.php on line 12.
+ 1 APPPATH/Controllers/HomeController.php(27): App\Models\Users::model()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:38:44 --> Class "App\Models\this" not found
+in APPPATH/Models/Users.php on line 12.
+ 1 APPPATH/Controllers/HomeController.php(27): App\Models\Users::model()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:39:02 --> Using $this when not in object context
+in APPPATH/Models/Users.php on line 12.
+ 1 APPPATH/Controllers/HomeController.php(27): App\Models\Users::model()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:40:17 --> Using $this when not in object context
+in APPPATH/Models/Users.php on line 12.
+ 1 APPPATH/Controllers/HomeController.php(27): App\Models\Users::model()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 06:48:50 --> Class "App\Models\Blogs" not found
+in APPPATH/Controllers/HomeController.php on line 28.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 07:20:06 --> Index build failed: 5153fd0d-d523-49b0-9105-5fe8b342def2: Collection smallblog.users ( df1979dd-a3ee-4cf7-9be2-4d1d3cb8ddcc ) :: caused by :: E11000 duplicate key error collection: smallblog.users index: user_id_1 dup key: { user_id: null }
+in VENDORPATH/mongodb/mongodb/src/Operation/CreateIndexes.php on line 205.
+ 1 VENDORPATH/mongodb/mongodb/src/Operation/CreateIndexes.php(205): MongoDB\Driver\Server->executeWriteCommand()
+ 2 VENDORPATH/mongodb/mongodb/src/Operation/CreateIndexes.php(149): MongoDB\Operation\CreateIndexes->executeCommand()
+ 3 VENDORPATH/mongodb/mongodb/src/Collection.php(391): MongoDB\Operation\CreateIndexes->execute()
+ 4 VENDORPATH/mongodb/mongodb/src/Collection.php(351): MongoDB\Collection->createIndexes()
+ 5 APPPATH/Components/MongoDocument.php(58): MongoDB\Collection->createIndex()
+ 6 APPPATH/Components/MongoDocument.php(17): App\Components\MongoDocument->setIndices()
+ 7 APPPATH/Models/Users.php(20): App\Components\MongoDocument->__construct()
+ 8 APPPATH/Models/Users.php(13): App\Models\Users->__construct()
+ 9 APPPATH/Controllers/HomeController.php(32): App\Models\Users::model()
+10 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+11 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+12 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+13 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:25:14 --> Class "App\Components\ReflectionClass" not found
+in APPPATH/Components/MongoDocument.php on line 82.
+ 1 APPPATH/Controllers/HomeController.php(28): App\Components\MongoDocument->save()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:32:09 --> Undefined property: App\Models\Users::$load
+in APPPATH/Components/MongoDocument.php on line 18.
+ 1 APPPATH/Components/MongoDocument.php(18): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Models/Users.php(24): App\Components\MongoDocument->__construct()
+ 3 APPPATH/Controllers/HomeController.php(23): App\Models\Users->__construct()
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:35:10 --> Class "App\Components\ReflectionProperty" not found
+in APPPATH/Components/MongoDocument.php on line 85.
+ 1 APPPATH/Controllers/HomeController.php(28): App\Components\MongoDocument->save()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:35:27 --> Undefined property: App\Models\Users::$Property [ public $user_id = NULL ]
+
+in APPPATH/Components/MongoDocument.php on line 93.
+ 1 APPPATH/Components/MongoDocument.php(93): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(28): App\Components\MongoDocument->save()
+ 3 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 4 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:37:59 --> Undefined property: App\Models\Users::$Property [ public $user_id = NULL ]
+
+in APPPATH/Components/MongoDocument.php on line 92.
+ 1 APPPATH/Components/MongoDocument.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(28): App\Components\MongoDocument->save()
+ 3 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 4 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:39:09 --> Undefined array key "user_id"
+in APPPATH/Components/MongoDocument.php on line 92.
+ 1 APPPATH/Components/MongoDocument.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(28): App\Components\MongoDocument->save()
+ 3 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 4 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:40:28 --> Illegal offset type
+in APPPATH/Components/MongoDocument.php on line 92.
+ 1 APPPATH/Controllers/HomeController.php(28): App\Components\MongoDocument->save()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:43:01 --> E11000 duplicate key error collection: smallblog.users index: user_id_1 dup key: { user_id: "sandy-3" }
+in VENDORPATH/mongodb/mongodb/src/Operation/InsertOne.php on line 126.
+ 1 VENDORPATH/mongodb/mongodb/src/Operation/InsertOne.php(126): MongoDB\Driver\Server->executeBulkWrite()
+ 2 VENDORPATH/mongodb/mongodb/src/Collection.php(934): MongoDB\Operation\InsertOne->execute()
+ 3 APPPATH/Components/MongoDocument.php(47): MongoDB\Collection->insertOne()
+ 4 APPPATH/Components/MongoDocument.php(93): App\Components\MongoDocument->insertOne()
+ 5 APPPATH/Controllers/HomeController.php(28): App\Components\MongoDocument->save()
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:52:09 --> Call to undefined function validateEmail()
+in APPPATH/Components/MongoDocument.php on line 72.
+ 1 APPPATH/Controllers/HomeController.php(28): App\Components\MongoDocument->validate()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:52:56 --> Call to undefined function validateEmail()
+in APPPATH/Components/MongoDocument.php on line 72.
+ 1 APPPATH/Controllers/HomeController.php(28): App\Components\MongoDocument->validate()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:54:51 --> E11000 duplicate key error collection: smallblog.users index: user_id_1 dup key: { user_id: "sandy-3" }
+in VENDORPATH/mongodb/mongodb/src/Operation/InsertOne.php on line 126.
+ 1 VENDORPATH/mongodb/mongodb/src/Operation/InsertOne.php(126): MongoDB\Driver\Server->executeBulkWrite()
+ 2 VENDORPATH/mongodb/mongodb/src/Collection.php(934): MongoDB\Operation\InsertOne->execute()
+ 3 APPPATH/Components/MongoDocument.php(47): MongoDB\Collection->insertOne()
+ 4 APPPATH/Components/MongoDocument.php(97): App\Components\MongoDocument->insertOne()
+ 5 APPPATH/Controllers/HomeController.php(28): App\Components\MongoDocument->save()
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:57:04 --> Object of class MongoDB\InsertOneResult could not be converted to string
+in APPPATH/Controllers/HomeController.php on line 34.
+ 1 APPPATH/Controllers/HomeController.php(34): strval()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:57:32 --> Cannot use object of type MongoDB\InsertOneResult as array
+in APPPATH/Controllers/HomeController.php on line 34.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 08:59:32 --> Undefined property: MongoDB\InsertOneResult::$getInsertedId
+in APPPATH/Controllers/HomeController.php on line 34.
+ 1 APPPATH/Controllers/HomeController.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 09:12:51 --> Class "App\Components\MongoDB\Operation\FindOneAndUpdate" not found
+in APPPATH/Components/MongoDocument.php on line 55.
+ 1 APPPATH/Controllers/HomeController.php(29): App\Components\MongoDocument->updateOne()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 09:13:41 --> Class "App\Components\MongoDB\Operation\FindOneAndUpdate" not found
+in APPPATH/Components/MongoDocument.php on line 56.
+ 1 APPPATH/Controllers/HomeController.php(29): App\Components\MongoDocument->updateOne()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 09:17:39 --> Undefined variable $collection
+in APPPATH/Components/MongoDocument.php on line 59.
+ 1 APPPATH/Components/MongoDocument.php(59): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/HomeController.php(29): App\Components\MongoDocument->updateOne()
+ 3 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\HomeController->dbTest()
+ 4 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 10:49:10 --> Undefined constant "App\Components\self"
+in APPPATH/Components/MongoDocument.php on line 81.
+ 1 APPPATH/Controllers/__MongoTestController.php(63): App\Components\MongoDocument->startAggregation()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\__MongoTestController->testAggregation()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 10:50:38 --> array_push(): Argument #1 ($array) must be of type array, null given
+in APPPATH/Components/MongoDocument.php on line 86.
+ 1 APPPATH/Components/MongoDocument.php(86): array_push()
+ 2 APPPATH/Controllers/__MongoTestController.php(64): App\Components\MongoDocument->addStage()
+ 3 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\__MongoTestController->testAggregation()
+ 4 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
+CRITICAL - 2023-07-30 10:51:12 --> The field 'count' must be an accumulator object
+in VENDORPATH/mongodb/mongodb/src/Operation/Aggregate.php on line 383.
+ 1 VENDORPATH/mongodb/mongodb/src/Operation/Aggregate.php(383): MongoDB\Driver\Server->executeReadCommand()
+ 2 VENDORPATH/mongodb/mongodb/src/Operation/Aggregate.php(281): MongoDB\Operation\Aggregate->executeCommand()
+ 3 VENDORPATH/mongodb/mongodb/src/Collection.php(246): MongoDB\Operation\Aggregate->execute()
+ 4 APPPATH/Components/MongoDocument.php(92): MongoDB\Collection->aggregate()
+ 5 APPPATH/Controllers/__MongoTestController.php(69): App\Components\MongoDocument->aggregate()
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\__MongoTestController->testAggregation()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/sandy/php-frameworks/basic-app/public/index.php')
